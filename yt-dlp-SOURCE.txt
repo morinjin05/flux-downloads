@@ -1,0 +1,5 @@
+yt-dlp bundled executable version: 2026.10.26
+Upstream project: https://github.com/yt-dlp/yt-dlp
+Release source archives: https://github.com/yt-dlp/yt-dlp/releases
+Release licensing: https://github.com/yt-dlp/yt-dlp#licensing
+The bundled executable is a separate third-party command-line program. Its own licenses and source availability apply independently of Flux.
